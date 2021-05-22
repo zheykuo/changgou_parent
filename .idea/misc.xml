@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="E:/changgou_common/pom.xml" />
+        <option value="E:/changgou_common_db/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_common/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_common_db/pom.xml" />
+        <option value="$PROJECT_DIR$/code-template/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/changgou_eureka7002/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_eureka7003/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_service_api/changgou_service_seckiss_api/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_service_api、changgou_service_seckill_api/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
